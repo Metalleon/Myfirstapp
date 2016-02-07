@@ -1,0 +1,5 @@
+Stijn Buiteman <s.buiteman@student.uva.nl
+
+Rock, Paper, Scissors - This app features the game rock, paper, scissors. To play,
+simply click either the rock, the paper, or the scissors button. Scores of the 
+current session are displayed in the bottom of the screen.
